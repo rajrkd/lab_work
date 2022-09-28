@@ -1,0 +1,7 @@
+﻿Group hierarchy,Region,Description,Service,Upfront,Monthly,First 12 months total,Currency,Configuration summary
+My Estimate,US East (Ohio),dns,Amazon Route 53,0,12.59,151.08,USD,"Hosted Zones (2), IP (CIDR) blocks (1000), Basic Checks Within AWS (3), Number of domains stored (2), Number of Elastic Network Interfaces ()"
+
+
+
+Acknowledgement
+"* AWS Pricing Calculator provides only an estimate of your AWS fees and doesn't include any taxes that might apply. Your actual fees depend on a variety of factors, including your actual usage of AWS services."
